@@ -7,10 +7,12 @@
     <version>3.0.0</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
+  <groupId>org.hudsonci.plugins</groupId>
   <artifactId>svncompat13</artifactId>
   <version>1.2-h-1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>SVN 1.3 Compatibility Plugin</name>
+  <description>SVN 1.3 Compatibility Plugin</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/SVNCompat13+Plugin</url>
   <licenses>
     <license>
@@ -289,6 +291,4 @@
       </plugin>
     </plugins>
   </reporting>
-  <groupId>org.hudsonci.plugins</groupId>
-  <description>SVN 1.3 Compatibility Plugin</description>
 </project>
